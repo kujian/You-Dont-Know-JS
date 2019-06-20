@@ -12,7 +12,7 @@
 
 * [序](foreword.md)（[Jake Archibald](http://jakearchibald.com)）
 * [前言](../preface.md)
-* [第一章: 异步:现在与稍后](ch1.md)
+* [第一章: 异步:现在与将来](ch1.md)
 * [第二章: 回调](ch2.md)
 * [第三章: Promise](ch3.md)
 * [第四章: Generator](ch4.md)
